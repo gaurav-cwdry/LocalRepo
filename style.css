@@ -1,0 +1,11 @@
+
+:root {
+	--text-color: #333333; /* main font colour (adjust as needed) */
+}
+
+body {
+	color: var(--text-color);
+}
+
+/* ensure links inherit readable colour */
+a { color: inherit; }
